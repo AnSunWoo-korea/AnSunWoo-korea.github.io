@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "안선우"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/해.jpg" # path of avatar image, e.g. 
   bio              : "Most people are about as happy as they make up their minds to be"
   location         : "대한민국, 경기도"
   email            :
